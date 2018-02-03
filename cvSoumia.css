@@ -24,7 +24,6 @@ h2{
 	font-size : 20px;
 	color : #8B0000;
 	text-transform : uppercase;
-	border-bottom: 2px solid #000000;
 }
 
 h3{
@@ -41,7 +40,7 @@ p{
 }
 
 .Contact{
-	float: right;	
+	border: 2px solid #000000; 	
 }
 
 a:link{
@@ -49,7 +48,17 @@ a:link{
 }
 
 .Expériences Professionnelles{
+	border: 2px solid #000000;
 }
 
 .Compétences{
+	border: 2px solid #000000;
+}
+
+.Centre d'intérêt{
+	border: 2px solid #000000;
+}
+
+.Formations{
+	border: 2px solid #000000;
 }
