@@ -10,15 +10,15 @@ strong{
 }
 
 h2{
-	font-size : 26px;
+	font-size : 20px;
 	color : #8B0000;
 	text-transform : uppercase;
-	border-bottom: 2px solid #8B0000;
+	border-bottom: 2px solid #000000;
 }
 
 h3{
 	font-style : italic;
-	font-size : 20px;
+	font-size : 18px;
 }
 
 p{
@@ -26,12 +26,11 @@ p{
 }
 
 .Titre{
-	float : right;
+	sont-size : 26px
 	font-style : italic;
 }
 
 .Contact{
-	float : left;
 }
 
 a:link{
@@ -39,9 +38,7 @@ a:link{
 }
 
 .Expériences Professionnelles{
-	float : left;
 }
 
 .Compétences{
-	float : right;
 }
