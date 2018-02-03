@@ -9,6 +9,15 @@ h2{
 	border-bottom: 2px solid #8B0000;
 }
 
+h3{
+	font-style : italic;
+	font-size : 20px;
+}
+
+p{
+	margin : auto;
+}
+
 .Titre{
 	float : right;
 	font-style : italic;
